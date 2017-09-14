@@ -1,0 +1,13 @@
+h1 {
+  background-color: white;
+  text-align: center;
+}
+
+#squidPic, #eaglePic, #lionPic {
+  display: none;
+  text-align: center;
+}
+
+body {
+  background-image: url(../img/zoo.png);
+}
